@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1064637510694",
+    "project_id": "chatequipefrance-5cde5",
+    "storage_bucket": "chatequipefrance-5cde5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064637510694:android:fae54b0ce00ef63882a2e7",
+        "android_client_info": {
+          "package_name": "com.example.chatequipefrance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTtugvv-7tnStUT6wqr8JVBLeC-fZ3r7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
